@@ -22,8 +22,14 @@
 }
 
 .about .prompt {
-    width: 40%;
+    width: 50%;
     font-size: 30px;
+    text-align: center;
+    display: flex;
+}
+
+.prompt .homeAnimation{
+    width: 150%;
 }
 .prompt svg {
     font-size: 60px;

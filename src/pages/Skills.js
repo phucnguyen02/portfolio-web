@@ -1,5 +1,6 @@
 import React from 'react'
 import '../styles/Skills.css'
+
 function Skills() {
   return (
     <div className='skills'>
@@ -12,7 +13,7 @@ function Skills() {
 
           <li className='item'>
             <h2>Backend:</h2>
-            <span>NodeJS, ExpressJS, MySQL, Sequelize, AWS, SQLite3, Flask</span>
+            <span>NodeJS, ExpressJS, MySQL, Sequelize, AWS, SQLite3, Flask, SQL</span>
           </li>
 
           <li className='item'>
