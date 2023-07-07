@@ -6,8 +6,12 @@ import Projects from "./pages/Projects";
 import ProjectDisplay from './pages/ProjectDisplay';
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
+import { useEffect } from 'react';
 
 function App() {
+  useEffect(() => {
+    document.title = `Phuc's Portfolio Website`
+  }, [])
   return (
     <div className="App">
       <Router>
