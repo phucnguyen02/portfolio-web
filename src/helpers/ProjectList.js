@@ -1,6 +1,7 @@
 import ShareSpace from '../assets/ShareSpace.png'
 import Shopping_List_App from '../assets/Shopping_List_App.png'
-import Blog_App from '../assets/Blog_App.png'
+import online_chatroom from '../assets/online_chatroom.png'
+
 export const ProjectList = [
     {
         name: "ShareSpace",
@@ -17,10 +18,10 @@ export const ProjectList = [
         link: "https://github.com/phucnguyen02/Shopping-List-App"
     },
     {
-        name: "Blog Application",
-        image: Blog_App,
-        skills: "HTML, CSS, Python3, MongoDB, JavaScript, Flask",
-        description: "A blog application where users can like and comment on posts",
-        link: "https://github.com/phucnguyen02/Blog_Website"
+        name: "Online Chatroom",
+        image: online_chatroom,
+        skills: "ReactJS, NodeJS, Express, MySQL, Sequelize, AWS",
+        description: "An online chatroom where users can log in and send, edit, delete messages",
+        link: "https://github.com/phucnguyen02/online-messaging"
     }
 ]
