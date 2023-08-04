@@ -1,5 +1,5 @@
 import ShareSpace from '../assets/ShareSpace.png'
-import Shopping_List_App from '../assets/Shopping_List_App.png'
+import costco_gas_map from '../assets/costco_gas_map.png'
 import online_chatroom from '../assets/online_chatroom.png'
 
 export const ProjectList = [
@@ -11,11 +11,11 @@ export const ProjectList = [
         link: "https://github.com/ShareSpaceUmass/ShareSpace"
     },
     {
-        name: "Shopping List App",
-        image: Shopping_List_App,
-        skills: "HTML, CSS, JavaScript, Python3, SQLite",
-        description: "A simple shopping list web application",
-        link: "https://github.com/phucnguyen02/Shopping-List-App"
+        name: "Orange County Costco Gas Stations Map",
+        image: costco_gas_map,
+        skills: "ReactJS, Python3, Firestore, Google Maps API, BeautifulSoup4, Google Cloud",
+        description: "A map that displays all the Costco gas stations in Orange County",
+        link: "https://github.com/phucnguyen02/costco-gas-map"
     },
     {
         name: "Online Chatroom",
