@@ -12,11 +12,12 @@ function Home() {
   return (
     <div className='home'>
       <div className = 'about'>
-        <h2 data-aos = "fade-down">Phuc's Portfolio Website</h2>
+        <h2 data-aos = "fade-down">Patrick Nguyen's Portfolio Website</h2>
           <div className='prompt'>
             <div className = 'introduction' data-aos = "fade-up">
-              <p>Hello there. My name is Phuc Nguyen, and this is my portfolio website.</p>
+              <p>Hello there. My name is Patrick Nguyen, and this is my portfolio website.</p>
               <p>I'm currently a CS major and aspiring software engineer at the University of Massachusetts, Amherst.</p>
+              <p>My interests are photography, video editing, and board games!</p>
             </div>
 
             {/* Lottie animation, lags for some reason */}

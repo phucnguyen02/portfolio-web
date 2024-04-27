@@ -8,12 +8,12 @@ function Skills() {
         <ol className='list'>
           <li className='item'>
             <h2>Frontend:</h2>
-            <span>ReactJS, HTML, CSS, NPM</span>
+            <span>ReactJS, HTML, CSS, NPM, NextJS</span>
           </li>
 
           <li className='item'>
             <h2>Backend:</h2>
-            <span>NodeJS, ExpressJS, MySQL, Sequelize, AWS, SQLite3, Flask, SQL</span>
+            <span>NodeJS, ExpressJS, MySQL, Sequelize, AWS, SQLite3, Flask, SQL, PostgreSQL</span>
           </li>
 
           <li className='item'>
